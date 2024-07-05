@@ -1,0 +1,17 @@
+body{
+    background-color: bisque;
+}
+.bolo{
+    border: 5px solid rgb(100, 237, 134);
+    border-radius: 30px;
+
+}
+.ingredientes{
+    background-color: burlywood;
+    margin-left: 0px;
+    
+}
+.ingredientes h2{
+    text-align: center;
+    
+}
